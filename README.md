@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naraengk
-- 👀 I’m interested in AI, Cybersecurity and Cloud Computing
+- 👀 I’m interested in AI, Cybersecurity and Embedded Systems
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me naraengopala@umass.edu
 - ⚡ Fun fact: ...
