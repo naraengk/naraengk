@@ -8,3 +8,42 @@
 naraengk/naraengk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Projects
+
+### [LandingPage](https://naraengk.netlify.app/landing-page)
+A sleek and professional portfolio landing page showcasing my projects and skills in a clean, modern design.
+
+### [StockSmart](https://github.com/naraengk/stock-smart)
+A dynamic pantry tracker that allows you to efficiently manage and monitor your pantry items with features to add, update, and remove items.
+
+### [Blackjack](https://github.com/naraengk/blackjack-game)
+A simple console-based Blackjack game that tests your luck and strategy in a classic card game environment.
+
+### [Hangman](https://github.com/naraengk/hangman-game)
+An engaging console-based Hangman game featuring a diverse word list for endless entertainment.
+
+### [Calculator](https://github.com/naraengk/calculator)
+A versatile Python calculator supporting basic arithmetic and power operations for everyday calculations.
+
+## Skills
+
+<details>
+  <summary>Click to view my skills</summary>
+  
+  - **Programming Languages**: Python, JavaScript, Java, HTML, CSS
+  - **Web Development**: Firebase
+  - **Data Analysis**: Pandas, NumPy, Matplotlib
+  - **Machine Learning**: Scikit-learn, TensorFlow, Keras
+  - **Tools & Technologies**: Git 
+  - **Soft Skills**: Problem-solving, Team Collaboration, Critical Thinking
+  
+</details>
+
+## Get in Touch
+
+Feel free to connect with me or reach out for any collaborations or inquiries:
+
+- **Email**: [naraen03@gmail.com](mailto:naraengopala@umass.com)
+
+Thank you for visiting my GitHub profile! 🌟
