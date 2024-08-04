@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naraengk
 - 👀 I’m interested in AI, Cybersecurity and Embedded Systems
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Mobile App Development
 - 📫 How to reach me naraengopala@umass.edu
 - ⚡ Fun fact: I am pretty decent at bowling
 
@@ -44,6 +44,6 @@ A versatile Python calculator supporting basic arithmetic and power operations f
 
 Feel free to connect with me or reach out for any collaborations or inquiries:
 
-- **Email**: [naraen03@gmail.com](mailto:naraengopala@umass.com)
+- **Email**: [naraengopala@umass.edu](mailto:naraengopala@umass.com)
 
 Thank you for visiting my GitHub profile! 🌟
