@@ -16,7 +16,7 @@ A dynamic pantry tracker that allows you to efficiently manage and monitor your 
 ### [Blackjack](https://github.com/naraengk/blackjack-game)
 A simple console-based Blackjack game that tests your luck and strategy in a classic card game environment.
 
-### [LandingPage](https://naraengk.netlify.app/landing-page)
+### [LandingPage](https://naraengk.netlify.app)
 A sleek and professional portfolio landing page showcasing my projects and skills in a clean, modern design.
 
 ### [Hangman](https://github.com/naraengk/hangman-game)
