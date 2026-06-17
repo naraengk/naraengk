@@ -8,7 +8,7 @@ naraengk/naraengk is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## Projects
-### [MatchMind](https://matchmind26.onrender.com)
+### [MatchMind](https://github.com/naraengk/MatchMind26)
 XGBoost match predictor and Monte Carlo bracket simulator for the 2026 World Cup.
 
 ### [StockSmart](https://github.com/naraengk/stock-smart)
