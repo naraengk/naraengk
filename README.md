@@ -8,21 +8,14 @@ naraengk/naraengk is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## Projects
+### [MatchMind](https://matchmind26.onrender.com)
+XGBoost match predictor and Monte Carlo bracket simulator for the 2026 World Cup.
 
 ### [StockSmart](https://github.com/naraengk/stock-smart)
 A dynamic pantry tracker that allows you to efficiently manage and monitor your pantry items with features to add, update, and remove items.
 
 ### [Blackjack](https://github.com/naraengk/blackjack-game)
 A simple console-based Blackjack game that tests your luck and strategy in a classic card game environment.
-
-### [LandingPage](https://naraengk.netlify.app)
-A sleek and professional portfolio landing page showcasing my projects and skills in a clean, modern design.
-
-### [Hangman](https://github.com/naraengk/hangman-game)
-An engaging console-based Hangman game featuring a diverse word list for endless entertainment.
-
-### [Calculator](https://github.com/naraengk/basic-calculator)
-A versatile Python calculator supporting basic arithmetic and power operations for everyday calculations.
 
 ## Skills
 
@@ -34,7 +27,6 @@ A versatile Python calculator supporting basic arithmetic and power operations f
   - **Data Analysis**: Pandas, NumPy, Matplotlib
   - **Machine Learning**: Scikit-learn, TensorFlow, Keras
   - **Tools & Technologies**: Git
-  - **Soft Skills**: Problem-solving, Team Collaboration, Critical Thinking
   
 </details>
 
