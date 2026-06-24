@@ -7,7 +7,7 @@
 XGBoost match predictor and Monte Carlo bracket simulator for the 2026 World Cup.
 
 ### [Domify](https://github.com/naraengk/Domify)
-Roommate coordination app built with FastAPI + React. Chore rotation, expense splits, shared grocery list, announcements, quiet hours.
+Roommate coordination app that keeps chores, bills, groceries, announcements, and quiet hours in one shared home dashboard.
 
 ## Skills
 
